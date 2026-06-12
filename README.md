@@ -1,2 +1,2 @@
 # Portofolio-v1
-My Portofolio
+My Portofolio versi 1 hanya untuk dipelajari
